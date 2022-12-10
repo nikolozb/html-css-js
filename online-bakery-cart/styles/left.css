@@ -1,0 +1,25 @@
+.main__left {
+}
+
+.main__product-single {
+}
+
+.main__block-7 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  /* column-gap: 3rem; */
+  row-gap: 2.4rem;
+  column-gap: 3rem;
+  max-width: 54rem;
+  margin-left: 7rem;
+  margin-top: 2.4rem;
+}
+
+.main__product-multiple {
+}
+
+.main__single {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
